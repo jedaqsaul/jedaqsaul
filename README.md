@@ -111,11 +111,9 @@ Demonstrates clean ORM relationships, aggregate methods, and seeded data for tes
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="mailto:jedaqsaul@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" title="Email" /></a>
-  <a href="https://github.com/jedaqsaul" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/jedidiah-wafula-9062a0382?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" title="LinkedIn" /></a>
-</p>
+- **GitHub:** [github.com/jedaqsaul](https://github.com/jedaqsaul)
+- **LinkedIn:** [Jedidiah Wafula](https://www.linkedin.com/in/jedidiah-wafula-9062a0382)
+- **Email:** jedaqsaul@gmail.com
 
 <p>
   💬 <strong>Let’s build something meaningful together.</strong>
