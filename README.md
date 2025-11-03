@@ -45,6 +45,18 @@ My work spans **API design**, **database modeling and migrations**, **CLI utilit
 Full-stack web app for event creation, ticketing, and management with **role-based access control** and **MPESA integration**.  
 **Tech:** `Flask`, `PostgreSQL`, `React`, `JWT`, `GitHub Actions`.
 
+### 🎓 Coursify
+
+A platform for **course discovery and enrollment**, built with a Flask backend and React frontend.  
+Includes **authentication**, **API integration**, and **role-based features** for learners and instructors.  
+**Tech:** `Flask`, `PostgreSQL`, `React`, `JWT`, `Flask-Migrate`, `SQLAlchemy`.
+
+### 🎟️ Ticksy
+
+An **event ticketing platform** focused on user-friendly booking and event management.  
+Features secure authentication and modular API design for scalability.  
+**Tech:** `Flask`, `React`, `PostgreSQL`, `JWT`, `Flask-RESTful`.
+
 ### 💰 Personal Budget Tracker (CLI + ORM)
 
 Command-line budget tracker with a normalized schema, migrations, seeding utilities, and financial summaries.  
@@ -108,7 +120,6 @@ Demonstrates clean ORM relationships, aggregate methods, and seeded data for tes
   <a href="mailto:jedaqsaul@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" title="Email" /></a>
   <a href="https://github.com/AquilaJedidiah" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" /></a>
   <a href="https://www.linkedin.com/in/jedidiah-wafula-9062a0382?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" title="LinkedIn" /></a>
-  <a href="https://leetcode.com/AquilaJedidiah" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" title="LeetCode" /></a>
 </p>
 
 <p>
