@@ -93,16 +93,6 @@ Demonstrates clean ORM relationships, aggregate methods, and seeded data for tes
 
 ---
 
-## 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AquilaJedidiah&show_icons=true&theme=dark&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AquilaJedidiah&layout=compact&theme=dark&hide_border=false&langs_count=6" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AquilaJedidiah&theme=dark&hide_border=false" height="150" />
-</p>
-
----
-
 ## 🧭 How I Work
 
 - Break complex problems into small, testable units and iterate quickly
@@ -117,7 +107,7 @@ Demonstrates clean ORM relationships, aggregate methods, and seeded data for tes
 <p align="left">
   <a href="mailto:jedaqsaul@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" title="Email" /></a>
   <a href="https://github.com/AquilaJedidiah" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/aquila-jedidiah" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" title="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jedidiah-wafula-9062a0382?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" title="LinkedIn" /></a>
   <a href="https://leetcode.com/AquilaJedidiah" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" title="LeetCode" /></a>
 </p>
 
