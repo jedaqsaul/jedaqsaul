@@ -40,11 +40,6 @@ My work spans **API design**, **database modeling and migrations**, **CLI utilit
 
 ## 💼 Selected Projects
 
-### 🪩 Event Ticketing & Management
-
-Full-stack web app for event creation, ticketing, and management with **role-based access control** and **MPESA integration**.  
-**Tech:** `Flask`, `PostgreSQL`, `React`, `JWT`, `GitHub Actions`.
-
 ### 🎓 Coursify
 
 A platform for **course discovery and enrollment**, built with a Flask backend and React frontend.  
